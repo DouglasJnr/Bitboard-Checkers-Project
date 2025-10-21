@@ -132,6 +132,7 @@ Enter moves as: `from_row from_col to_row to_col`
 <img src="images/preview1.png" width="600" height="600"/>
 <img src="images/preview2.png" width="600" height="600"/>
 <img src="images/preview3.png" width="600" height="600"/>
+<img src="images/preview4.png" width="600" height="600"/>
 
 
 ## 🛠️ Technical Details
