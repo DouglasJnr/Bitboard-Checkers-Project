@@ -7,7 +7,7 @@ A complete implementation of checkers using bitboard data structures and bit man
 ## 📁 Project Structure
 
 ```
-bitboard_checkers/
+Bitboard_Checkers/
 │
 ├── bitops.h          # Header for bit manipulation functions
 ├── bitops.c          # Implementation of basic bit operations
@@ -127,6 +127,12 @@ Enter moves as: `from_row from_col to_row to_col`
   Current Player: Red
   Red Pieces: 12   Black Pieces: 12
 ```
+## Demo
+
+<img src="images/preview1.png" width="600" height="600"/>
+<img src="images/preview2.png" width="600" height="600"/>
+<img src="images/preview3.png" width="600" height="600"/>
+
 
 ## 🛠️ Technical Details
 
